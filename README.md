@@ -1,17 +1,7 @@
 phpnats
 =======
 
-**Travis**
-
-| Master  | Develop |
-| ------------- | ------------- |
-| [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=master)](https://travis-ci.org/repejota/phpnats)  | [![Build Status](https://travis-ci.org/repejota/phpnats.png?branch=develop)](https://travis-ci.org/repejota/phpnats)  |
-
-**Coverage**
-
-| Master  | Develop |
-| ------------- | ------------- |
-| [![Coverage Status](https://coveralls.io/repos/repejota/phpnats/badge.svg?branch=master)](https://coveralls.io/r/repejota/phpnats?branch=master) | [![Coverage Status](https://coveralls.io/repos/repejota/phpnats/badge.svg?branch=develop)](https://coveralls.io/r/repejota/phpnats?branch=develop)  |
+https://github.com/repejota/phpnats fork
 
 Introduction
 ------------
@@ -41,7 +31,7 @@ Now let's tell composer about our project's dependancies, in this case, PHPNats.
 ```
 {
   "require": {
-    "repejota/nats": "dev-master"
+    "technology/phpnats": "dev-master"
   }
 }
 ```
@@ -153,10 +143,8 @@ Developer's Information
 
 ### Releases
 
-* [Latest stable](https://github.com/repejota/phpnats/tree/master)
-* [Latest dev](https://github.com/repejota/phpnats/tree/develop)
-
-* [PHPNats on Packagist](https://packagist.org/packages/repejota/nats)
+* [Latest stable](https://github.com/OOO-Technology/phpnats/tree/master)
+* [Latest dev](https://github.com/OOO-Technology/phpnats/tree/develop)
 
 ### Tests
 
